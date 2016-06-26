@@ -29,4 +29,3 @@ angular.module('app', ['ngRoute'])
     .service('moreService', moreService)
     /*.factory('', )*/
     .run(run);
-

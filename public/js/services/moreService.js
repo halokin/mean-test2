@@ -1,4 +1,4 @@
-// TODO SERVICE
+// more SERVICE
 function moreService($http) {
     return {
         get : function() {

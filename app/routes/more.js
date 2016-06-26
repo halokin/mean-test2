@@ -1,4 +1,4 @@
-// ROUTES TODOS
+// ROUTES mores
 var More = require('../models/more.js');
 module.exports 	= function(app) {
 
